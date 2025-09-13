@@ -2,8 +2,8 @@
 
 A comprehensive Power BI dashboard designed to analyze product return rates, identify key trends, and evaluate employee performance through advanced time intelligence metrics.
 
-![Dashboard Overview](https://via.placeholder.com/800x400.png?text=PowerBI+Dashboard+Screenshot) 
-*(Replace with a direct link to your dashboard screenshot)*
+<img width="1509" height="848" alt="image" src="https://github.com/user-attachments/assets/1126f97e-620b-4cae-9a83-68f00b585797" />
+
 
 ## 🚀 Features
 
@@ -25,8 +25,7 @@ A comprehensive Power BI dashboard designed to analyze product return rates, ide
 
 The project uses a **star schema** design for optimal performance:
 
-![Data Model](https://via.placeholder.com/600x300.png?text=Star+Schema+Data+Model) 
-*(Replace with a link to your model diagram)*
+<img width="1266" height="669" alt="image" src="https://github.com/user-attachments/assets/58929a12-f561-4729-a2e6-717baa307572" />
 
 **Fact Tables:**
 - `Orders`
@@ -68,9 +67,7 @@ The project uses a **star schema** design for optimal performance:
 
 Feel free to fork this project and submit pull requests for any improvements. For major changes, please open an issue first to discuss what you would like to change.
 
-## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
 
 ---
-**Developed by:** [Your Name](https://github.com/your-username)
+
