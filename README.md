@@ -38,9 +38,7 @@ The project uses a **star schema** design for optimal performance:
 ## 🛠️ Installation & Usage
 
 1.  **Clone the repository:**
-    ```bash
-    git clone https://github.com/your-username/power-bi-retail-returns-dashboard.git
-    ```
+    
 
 2.  **Open in Power BI Desktop:**
     - Open the `Retail_Returns_Analysis.pbix` file.
